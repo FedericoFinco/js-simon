@@ -1,0 +1,19 @@
+body{
+    background-color: #222;
+    color: white;
+    font-family: sans-serif;
+}
+
+.box {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+#messaggio{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+#numeri{
+    
+}
